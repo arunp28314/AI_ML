@@ -1,0 +1,40 @@
+https://www.youtube.com/watch?v=72XgD322wZ8
+
+Problems:
+
+Context
+
+Conversation
+
+LangChain frame work for LLM
+
+LC is intermediate framework to communicate with any LLM
+
+Embeddings
+
+pinecone verctor database
+
+Rag
+
+Retrival argumnet Generation
+
+Multi Model Languages
+
+Already trainded on internet database
+
+if we want we can apply on our data by using LangChain for Rag application
+
+paltform.openai.com
+
+
+
+Dally
+
+Soara
+
+
+pdfchat
+
+conversation analytics
+===========================================
+LangChain - Open source framework to build applications using LLM
